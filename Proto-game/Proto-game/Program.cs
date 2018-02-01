@@ -16,6 +16,8 @@ namespace Proto_game
         {
             using (var game = new Game1())
                 game.Run();
+            //you say run !!!
+            //Vous savez parfois vous pensez que la vie vous offre un kiwi mais en faite lol non c'est un cactus
         }
     }
 #endif
