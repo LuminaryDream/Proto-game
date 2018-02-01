@@ -12,6 +12,7 @@ namespace Proto_game
         GraphicsDeviceManager graphics;
         SpriteBatch spriteBatch;
 
+        //les lamas sont bleus mais unijambistes
         public Game1()
         {
             graphics = new GraphicsDeviceManager(this);
